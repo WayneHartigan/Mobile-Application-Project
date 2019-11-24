@@ -1,0 +1,67 @@
+<resources>
+    <string name="app_name">Pancake Budgets</string>
+    <string name="balanceTitle">Current Balance</string>
+    <string name="transactionName">Add Transaction</string>
+    <string name="balanceDefEuro">€17.00</string>
+    <string name="addTrans">Add Transaction</string>
+    <string name="addBudget">Add Funds</string>
+    <string name="currenySwitch">Currency</string>
+    <string name="transactionNameDef">Name</string>
+    <string name="transactionDateDef">11/11/2019</string>
+    <string name="transactionCatDef">Category</string>
+    <string name="transactionPriceDef">Price</string>
+    <string name="transactionHeader">Transactions</string>
+    <string name="categoryPopup">Choose a category</string>
+    <string name="priceHintField">30.00</string>
+    <string name="namePlaceHolder">Dinner</string>
+    <string name="datePlaceHolder">11/11/2019</string>
+    <string name="submitTrans">Submit Transaction</string>
+    <string name="cancelTrans">Cancel Transaction</string>
+    <string name="fundsHeader">Add to Balance</string>
+    <string name="submitBalance">Submit Balance</string>
+    <string name="cancelBalance">Cancel</string>
+
+    <string-array name="transactionCategories">
+        <item>Food</item>
+        <item>Clothes</item>
+        <item>Entertainment</item>
+        <item>Jewellery</item>
+        <item>Other</item>
+    </string-array>
+
+    <string-array name="transactionNames">
+        <item>Mcdonalds</item>
+        <item>Video Game</item>
+        <item>Dinner</item>
+        <item>Pub</item>
+        <item>Shoes</item>
+        <item>Jacket</item>
+    </string-array>
+
+    <string-array name="transactionPrices">
+        <item>3.99</item>
+        <item>50.00</item>
+        <item>15.95</item>
+        <item>350.25</item>
+        <item>59.65</item>
+        <item>45.33</item>
+    </string-array>
+
+    <string-array name="transactionDates">
+        <item>23/11/2019</item>
+        <item>17/11/2019</item>
+        <item>11/11/2019</item>
+        <item>04/11/2019</item>
+        <item>01/11/2019</item>
+        <item>12/10/2019</item>
+    </string-array>
+
+    <string-array name="transactionCat">
+        <item>Food</item>
+        <item>Entertainment</item>
+        <item>Food</item>
+        <item>Entertainment</item>
+        <item>Clothes</item>
+        <item>Clothes</item>
+    </string-array>
+</resources>
