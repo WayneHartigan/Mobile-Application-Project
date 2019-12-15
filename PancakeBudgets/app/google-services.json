@@ -1,34 +1,42 @@
 {
   "project_info": {
-    "project_number": "774295950136",
-    "firebase_url": "https://pancakebudgets.firebaseio.com",
-    "project_id": "pancakebudgets",
-    "storage_bucket": "pancakebudgets.appspot.com"
+    "project_number": "972199106658",
+    "firebase_url": "https://pancake-budgets.firebaseio.com",
+    "project_id": "pancake-budgets",
+    "storage_bucket": "pancake-budgets.appspot.com"
   },
   "client": [
     {
       "client_info": {
-        "mobilesdk_app_id": "1:774295950136:android:94e2310760f748a67267cd",
+        "mobilesdk_app_id": "1:972199106658:android:edb483d4286cc767fcd93b",
         "android_client_info": {
           "package_name": "com.example.pancakebudgets"
         }
       },
       "oauth_client": [
         {
-          "client_id": "774295950136-qaf16tpmjfjte8ul9qn7eli72irkli9c.apps.googleusercontent.com",
+          "client_id": "972199106658-nvmueuqedj1tira77ukbjpug365io6tj.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.pancakebudgets",
+            "certificate_hash": "0fac34630c8c2cd34a4a58620d6fc3bd92451635"
+          }
+        },
+        {
+          "client_id": "972199106658-luakkcbvh9s2i5g1qmqi896ir6ousvkq.apps.googleusercontent.com",
           "client_type": 3
         }
       ],
       "api_key": [
         {
-          "current_key": "AIzaSyC2ugmDO_UnVoLMGNsqVaciqMT6BkkBgr0"
+          "current_key": "AIzaSyCivOz9Cj2cjNfL3bWv-zDHzjouCP5cLqE"
         }
       ],
       "services": {
         "appinvite_service": {
           "other_platform_oauth_client": [
             {
-              "client_id": "774295950136-qaf16tpmjfjte8ul9qn7eli72irkli9c.apps.googleusercontent.com",
+              "client_id": "972199106658-luakkcbvh9s2i5g1qmqi896ir6ousvkq.apps.googleusercontent.com",
               "client_type": 3
             }
           ]

@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Pancake Budgets</string>
+    <string name="balanceTitle">Saldo</string>
+    <string name="transactionName">Dodaj transakcję</string>
+    <string name="balanceDefEuro">€0.00</string>
+    <string name="addTrans">Dodaj transakcję</string>
+    <string name="addBudget">Zaktualizuj budżet</string>
+    <string name="currenySwitch">Waluta</string>
+    <string name="transactionNameDef">Imię</string>
+    <string name="transactionDateDef">11/11/2019</string>
+    <string name="transactionCatDef">Kategoria</string>
+    <string name="transactionPriceDef">Cena</string>
+    <string name="transactionHeader">Transakcje</string>
+    <string name="categoryPopup">Wybierz kategorię</string>
+    <string name="priceHintField">30.00</string>
+    <string name="namePlaceHolder">Obiad</string>
+    <string name="datePlaceHolder">11/11/2019</string>
+    <string name="submitTrans">Prześlij transakcję</string>
+    <string name="cancelTrans">Anuluj transakcję</string>
+    <string name="fundsHeader">Zaktualizuj saldo</string>
+    <string name="submitBalance">Prześlij saldo</string>
+    <string name="cancelBalance">anulować</string>
+    <string name="language">Język</string>
+
+    <string-array name="transactionCategories">
+        <item>jedzenie</item>
+        <item>Ubranie</item>
+        <item>Zabawa</item>
+        <item>Biżuteria</item>
+        <item>Inny</item>
+    </string-array>
+</resources>
